@@ -25,10 +25,6 @@ Olá! Sou Ector Yuri Duarte Menezes, um desenvolvedor web e mobile em constante 
 - [Projetos](#projetos)
 - [Contato](#contato)
 
-## Sobre Mim
-
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando novas formas de resolver problemas através da programação. Atualmente, estou me especializando no desenvolvimento de aplicações web e mobile, utilizando uma ampla gama de tecnologias.
-
 ## Habilidades
 
 Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
