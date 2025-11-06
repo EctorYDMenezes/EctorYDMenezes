@@ -36,7 +36,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 
 ## Experiência Profissional
 
-- **Estagiário em Desenvolvimento Web e Mobile** (1 ano e meio)
+- **Estagiário em Desenvolvimento Web e Mobile** 14/10/2022 - 10/08/2024
+  - Desenvolvimento de aplicações web e mobile utilizando PHP, Angular, e outras tecnologias.
+- **Assistente de Desenvolvimento Web e Mobile** 17/07/2025 - Hoje
   - Desenvolvimento de aplicações web e mobile utilizando PHP, Angular, e outras tecnologias.
 
 ## Educação
